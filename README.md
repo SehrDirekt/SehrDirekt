@@ -1,5 +1,5 @@
 # 💫 About Me:
-My current Project is: VeronixSMP
+My current Project is: PhoenixSMP
 
 
 ## 🌐 Socials:
