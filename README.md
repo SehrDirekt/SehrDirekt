@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Creator and Developer.<br><br>Currently i'm working on the VoxelVoid Discord Bot and my german Minecraft Server which also is called VoxelVoid
+I'm a  Developer.<br><br>Currently i'm working on the VoxelVoid Discord Bot and my german Minecraft Server which also is called VoxelVoid
 
 
 ## 🌐 Socials:
